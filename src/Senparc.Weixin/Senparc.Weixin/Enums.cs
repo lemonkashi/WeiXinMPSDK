@@ -205,6 +205,7 @@ namespace Senparc.Weixin
         form_id不正确_或者过期 = 41028,
         form_id已被使用 = 41029,
         page不正确 = 41030,
+        page不正1确 = 41999,
 
         access_token超时 = 42001,
         refresh_token超时 = 42002,
